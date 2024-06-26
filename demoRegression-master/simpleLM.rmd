@@ -61,7 +61,7 @@ WEIGHT: Adjusted R squared:0.87 RSE: 43.91
 
 LENGTH: Adjusted R squared: 0.7423 RSE: 61.83
 
-
+HEADWTH: Adjusted R squared: 0.6064 RSE: 76.41
 
 
 
