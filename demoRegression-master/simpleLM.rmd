@@ -55,6 +55,8 @@ abline(simp)
 summary.lm(simp)
 ```
   
+
+  
   
 
 ## Compare all models that predict WEIGHT other than NECK. Then order them from worst to best by its value of Adjusted-Rsquared (bigger is better), or by RSE (residual standard error) where smaller is better. 
@@ -65,6 +67,8 @@ CHEST: Adjusted R Squared:0.9262 RSE: 33.08
 WEIGHT: Adjusted R squared:0.87 RSE: 43.91
 
 LENGTH: Adjusted R squared: 0.7423 RSE: 61.83
+
+HEADLEN: Adjusted R squared: 0.69 RSE: 67.81
 
 HEADWTH: Adjusted R squared: 0.6064 RSE: 76.41
 
